@@ -1,0 +1,18 @@
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\bin\Debug\Paint.exe
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\bin\Debug\Paint.pdb
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.Form1.resources
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.exe
+G:\EGITIM\YAZILIM\2011\HSS2011_3\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.pdb
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.exe
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.pdb
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\bin\Debug\Paint.exe
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.Form1.resources
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\c# kursu\DERSTE YAPILAN ÖRNEKLER\WINDOWS\Paint\Paint\bin\Debug\Paint.pdb
